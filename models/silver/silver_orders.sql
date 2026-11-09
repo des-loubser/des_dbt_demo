@@ -1,5 +1,4 @@
 -- Converted from SSIS load_silver.dtsx: "Load SILVER_ORDERS"
--- FROM {{ source('bronze', 'BRONZE_ORDERS') }} o
 {{ config(alias='SILVER_ORDERS') }}
 
 SELECT
