@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: bronze
+    description: Bronze layer (migrated from SQL Server demo.sales BRONZE_* tables)
+    database: DBT_DEMO_WLG
+    schema: BRONZE
+    tables:
+      - name: BRONZE_ORDERS
+      - name: BRONZE_CUSTOMERS
+
+  - name: ref
+    description: Reference data
+    database: DBT_DEMO_WLG
+    schema: REF
+    tables:
+      - name: REF_CURRENCY
+        description: Currency conversion rates (code, name, to_aud)

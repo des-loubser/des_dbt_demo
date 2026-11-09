@@ -1,0 +1,5 @@
+code,description,to_aud
+'USD', 'US Dollar', 1.46
+'GBP', 'British Pound', 1.92
+'EUR', 'Euro', 1.67
+'AUD', 'Australian Dollar', 1.00

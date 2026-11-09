@@ -1,0 +1,21 @@
+customer_id,name,age,audit_modified_date,audit_current
+0,Emma Smith,76,2026-02-21 00:00:00,1
+1,Mia Smith,17,2026-02-21 00:00:00,1
+2,Ethan Garcia,77,2026-02-21 00:00:00,1
+3,John Jones,83,2026-02-21 00:00:00,1
+4,Mia Martinez,81,2026-02-21 00:00:00,1
+5,Ava Davis,64,2026-02-21 00:00:00,1
+6,Mia Williams,79,2026-02-21 00:00:00,1
+7,Emma Williams,54,2026-02-21 00:00:00,1
+8,John Smith,29,2026-02-21 00:00:00,1
+9,Ethan Brown,67,2026-02-21 00:00:00,1
+10,Olivia Rodriguez,22,2026-02-21 00:00:00,1
+11,Emma Williams,50,2026-02-21 00:00:00,1
+12,Mia Johnson,59,2026-02-21 00:00:00,1
+13,John Martinez,34,2026-02-21 00:00:00,1
+14,James Rodriguez,19,2026-02-21 00:00:00,1
+15,James Rodriguez,55,2026-02-21 00:00:00,1
+16,Sophia Davis,29,2026-02-21 00:00:00,1
+17,Olivia Garcia,46,2026-02-21 00:00:00,1
+18,Ava Martinez,31,2026-02-21 00:00:00,1
+19,Ava Jones,39,2026-02-21 00:00:00,1

@@ -1,0 +1,3 @@
+dtsx_filename,task_or_component,transformation_expression,reason
+load_gold.dtsx,Truncate GOLD_JOHN_SALES_BY_REGION,full_content/load_gold__Truncate_GOLD_JOHN_SALES_BY_REGION.sql,DDL/truncate maintenance task only; no transformational logic to convert to a dbt model.
+load_gold.dtsx,Logging if failed,full_content/load_gold__Logging_if_failed.sql,Audit/error logging task with no transformational logic; dbt does not handle failure-state logging inserts.
